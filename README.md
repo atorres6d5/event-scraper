@@ -3,11 +3,10 @@ I got each of the events displaying form each of the resources and links to the 
 
 How pleased are you with your solution?
 not so much. This Challenge is the very fist time I've ever used Cheerio package and any web scraping form an already made page.
-I had fun making it and learning how to use it along with the jquery api. (also never used it before) most of my time was spent here
+I had fun making it and learning how to use it along with the jquery api. (also never used it before) most of my time was spent learning.
 
 What is the next thing you would do if you had more time?
-extract the api calls form the component level and with redux.
-make a my own page to scrape the event page itself, right now its just a link and then auth to be able to rsvp to any event on any site.
+extract the api calls form the component level and add redux. I wanted to parse all of the html code on the server before sending it to the frontend and just use the data points that i needed. Also i  would make a my own event page with just one event, right now its just a link and then auth to be able to rsvp to any event on any site.
 
 
 Talk about performance concerns on the frontend
