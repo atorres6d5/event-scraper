@@ -5,7 +5,7 @@ import { Header } from 'semantic-ui-react'
 
 const URL="https://www.eventbrite.com/"
 
-class StanfordEvents extends Component {
+class EventBrightEvents extends Component {
   // constructor(props){
   //   super(props)
   //   this.state= {
@@ -48,4 +48,4 @@ class StanfordEvents extends Component {
 
 }
 
-export default StanfordEvents;
+export default EventBrightEvents;

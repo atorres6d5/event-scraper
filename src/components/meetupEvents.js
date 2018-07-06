@@ -26,7 +26,6 @@ class MeetupEvents extends Component {
 
           const date = $('time[itemprop="startDate"]').text()
           const count = $('.attendee-count').text()
-          console.log(link);
           return(
             <Event
               key={title}
